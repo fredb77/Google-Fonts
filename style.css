@@ -1,0 +1,21 @@
+
+div {
+    margin: auto;
+    width: 50%;
+}
+
+.p1 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.p2 {
+    color: white;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;        
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;                
+}
+
+.p3 {
+    font-family: 'Signika', sans-serif;
+    text-shadow: 0 0 3px orange;
+}
